@@ -7,8 +7,8 @@
 body{
     background-color: rgb(135, 181, 250);
     color: #333;
-    text-align: center;
-    line-height: 1.7;
+    text-align: center ;
+    line-height: 2;
 }
 
 .section{ 
@@ -20,7 +20,7 @@ body{
 }
 
 .hero h1{
-    font-size: 32px;
+    font-size: 40px;
 }
 
 .grid{ 
