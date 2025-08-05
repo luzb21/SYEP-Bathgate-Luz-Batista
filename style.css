@@ -51,5 +51,6 @@ body{
 }
 
 .hero img {
-border-radius: 0%;
+border-radius: 10%;
+width: fit-content;
 }
