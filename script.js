@@ -1,24 +1,24 @@
 const reviews= [
 {
     id: 1,
-    name:'Susan Smith',
-    job: 'Web Developer',
-    img:'myimage.jpg',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto asperiores debitis incidunt, eius earum ipsam cupiditate libero? Iste, doloremque nihil?',
+    name:'Jeff Palmere',
+    job: 'Teacher and Dance Coach',
+    img:'jeff.jpg',
+    text: 'Watching Luz grow throughout middle school and highschool has been incredibly rewarding. Their dedication, curiosity, and positive attitude made them a standout participant, and they showed great promise in everything they tackled',
 },
 {
     id: 2,
-    name:'Anna Johnson',
-    job: 'Web designer',
-    img:'#',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto asperiores debitis incidunt, eius earum ipsam cupiditate libero? Iste, doloremque nihil?',
+    name:'Mr.Broad',
+    job: 'Teacher',
+    img:'Broad.png',
+    text: 'Luz demonstrated exceptional growth and a strong work ethic during highschool. They were always eager to learn, ask thoughtful questions, and contribute positively to every task they took.',
 },
 {
     id: 3,
-    name:'Peter Jones',
-    job: 'Intern',
-    img:'#',
-    text: 'Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto asperiores debitis incidunt, eius earum ipsam cupiditate libero? Iste, doloremque nihil?',
+    name:'Emma Garcia',
+    job: 'Math Teacher',
+    img:'Garcia.png',
+    text: 'Luz is an incredibly dedicated and focused student who always strives to do their best. Their enthusiasm for learning and willingness to ask questions and engage deeply in class discussions made them a standout in my classroom.',
 }
 
 ]
